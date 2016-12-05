@@ -1,8 +1,8 @@
 {
-  "name": "metalsmith-markdownit",
+  "name": "metalsmith-markdownit2",
   "description": "A Metalsmith plugin to convert markdown files.",
-  "repository": "git://github.com/mayo/metalsmith-markdownit.git",
-  "version": "0.3.0",
+  "repository": "git://github.com/jhyland87/metalsmith-markdownit2.git",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
